@@ -1,0 +1,63 @@
+h1, h2, h3, h4, p {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+body {
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+#contact { 
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: block;
+    
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.imageClass {
+    width: 30%;
+    border-radius: 10px;
+    align-content: center;
+}
+
+
+.paras {
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+}
+
+.head {
+    display: flex;
+}
+
+p {
+    font-size: x-large;
+}
+
+.profilepic {
+    width: 50%;
+    border-radius: 50px;
+    margin: auto;
+}
+
